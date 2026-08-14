@@ -1,5 +1,6 @@
 # 🗺️ KUAGI AI Accessibility Gap Explorer
-<img width="960" height="441" alt="image" src="https://github.com/user-attachments/assets/c08bbff3-e92e-4fd6-9085-557217f02925" />
+<img width="960" height="444" alt="image" src="https://github.com/user-attachments/assets/7a81bd8c-fe0b-4f2c-85b6-83b0bf860667" />
+
 
 
 ## Map<>Kathon 2026 Project
